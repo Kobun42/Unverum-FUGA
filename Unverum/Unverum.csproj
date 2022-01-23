@@ -22,6 +22,7 @@
     <None Remove="Assets\Icons\smtv.png" />
     <None Remove="Assets\Icons\sn.png" />
     <None Remove="Assets\Icons\toa.png" />
+    <None Remove="Assets\Icons\fuga.png" />
     <None Remove="Assets\RobotoMono-Regular.ttf" />
     <None Remove="Assets\unverumpreview.png" />
     <None Remove="GameBanana.png" />
@@ -67,6 +68,7 @@
     <Resource Include="Assets\Icons\smtv.png" />
     <Resource Include="Assets\Icons\sn.png" />
     <Resource Include="Assets\Icons\toa.png" />
+    <Resource Include="Assets\Icons\fuga.png" />
     <Resource Include="Assets\RobotoMono-Regular.ttf" />
     <Resource Include="Assets\unverumpreview.png" />
   </ItemGroup>
