@@ -149,7 +149,7 @@ namespace Unverum
                         url += "14768&";
                         break;
                     case GameFilter.FUGA:
-                        url += "0&"; // No page for it yet. Hopefully someone fixes that.
+                        url += "15584&"; 
                         break;
                 }
             }
@@ -194,7 +194,7 @@ namespace Unverum
                         url += "14768&";
                         break;
                     case GameFilter.FUGA:
-                        url += "0&"; // No page for it yet... still.
+                        url += "15584&"; // No page for it yet... still.
                         break;
                 }
             }
