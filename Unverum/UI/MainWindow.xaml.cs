@@ -301,6 +301,8 @@ namespace Unverum
                     return Setup.Generic("StarlitSeason.exe", "StarlitSeason", @"C:\Program Files (x86)\Steam\steamapps\common\StarlitSeason\StarlitSeason.exe");
                 case GameFilter.SMTV:
                     return Setup.SMTV(emu);
+                 case GameFilter.FUGA:
+                    return Setup.Generic("TANK.exe", "TANK", @"C:\Program Files (x86)\Steam\steamapps\common\戦場のフーガ\TANK.exe");
             }
             return false;
         }
@@ -453,6 +455,9 @@ namespace Unverum
                             case GameFilter.IM:
                                 id = "1046480";
                                 break;
+                            case GameFilter.FUGA:
+                                id = "1357860"; //Finally! Something that I can implement correctly! Hooray for me!
+                                break;
                         }
                         path = epic ? $"com.epicgames.launcher://apps/{id}?action=launch&silent=true" : $"steam://rungameid/{id}";
                     }
@@ -510,6 +515,9 @@ namespace Unverum
                     break;
                 case GameFilter.SMTV:
                     id = "14768";
+                    break;
+                case GameFilter.FUGA:
+                    id = "0"; //Welcome to my life. Adding entries for games that aren't on gamebanana yet.
                     break;
             }
             try
@@ -1189,7 +1197,7 @@ namespace Unverum
             {
                 ErrorPanel.Visibility = Visibility.Collapsed;
                 // Initialize categories and games
-                var gameIDS = new string[] { "6246", "11605", "8897", "11534", "7019", "9219", "12028", "13821", "14246", "14247", "14768" };
+                var gameIDS = new string[] { "6246", "11605", "8897", "11534", "7019", "9219", "12028", "13821", "14246", "14247", "14768", "0" };
                 var types = new string[] { "Mod", "Wip", "Sound" };
                 var gameCounter = 0;
                 foreach (var gameID in gameIDS)
