@@ -88,3 +88,7 @@ Try running as administrator or checking to see if any antivirus is preventing t
 
 ### Why aren't my mods showing up after checking them?
 Please make sure you pressed build after selecting your loadout and before launching the game.
+
+## Special Thanks
+- TekkaGB for creating Unverum in the first place
+- CyberConnect2 for creating FUGA.
