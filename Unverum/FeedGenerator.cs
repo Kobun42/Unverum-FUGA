@@ -23,7 +23,8 @@ namespace Unverum
         ToA,
         DS,
         IM,
-        SMTV
+        SMTV,
+        FUGA
     }
     public enum FeedFilter
     {
@@ -147,6 +148,9 @@ namespace Unverum
                     case GameFilter.SMTV:
                         url += "14768&";
                         break;
+                    case GameFilter.FUGA:
+                        url += "0&"; // No page for it yet. Hopefully someone fixes that.
+                        break;
                 }
             }
             else if (category.ID != null)
@@ -188,6 +192,9 @@ namespace Unverum
                         break;
                     case GameFilter.SMTV:
                         url += "14768&";
+                        break;
+                    case GameFilter.FUGA:
+                        url += "0&"; // No page for it yet... still.
                         break;
                 }
             }
