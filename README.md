@@ -1,5 +1,5 @@
-# Unverum
-Unverum Mod Manager is a tool that allows gamers to download, install, and manage mods for several Unreal Engine 4 anime games.  The name Unverum comes from the Latin translation of real, verum.
+# Unverum-FUGA
+Unverum-FUGA is a branch of the Unverum Mod Manager. It is a tool that allows gamers to download, install, and manage mods for several Unreal Engine 4 anime games. 
 
 ## Supported Games
 - Dragon Ball FIghterZ
