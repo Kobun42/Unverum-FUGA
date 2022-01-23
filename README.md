@@ -1,5 +1,5 @@
 # Unverum-FUGA
-Unverum-FUGA is an unofficial branch of the Unverum Mod Manager. It is a tool that allows gamers to download, install, and manage mods for several Unreal Engine 4 anime games. 
+Unverum-FUGA is an unofficial branch of the Unverum Mod Manager intended for use with FUGA: Melodies of Steel. It is a tool that allows gamers to download, install, and manage mods for several Unreal Engine 4 anime games. 
 
 ## Supported Games
 - Dragon Ball FIghterZ
