@@ -517,7 +517,7 @@ namespace Unverum
                     id = "14768";
                     break;
                 case GameFilter.FUGA:
-                    id = "0"; //Welcome to my life. Adding entries for games that aren't on gamebanana yet.
+                    id = "15584"; //Welcome to my life. Adding entries for games that aren't on gamebanana yet.
                     break;
             }
             try
