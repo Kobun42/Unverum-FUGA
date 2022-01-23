@@ -186,7 +186,7 @@ namespace Unverum
                 }
                 if (int.Parse(onlineVersionParts[i]) > int.Parse(localVersionParts[i]))
                 {
-                    return true;
+                    return false; //Nullify auto updater
                 }
                 else if (int.Parse(onlineVersionParts[i]) != int.Parse(localVersionParts[i]))
                 {
