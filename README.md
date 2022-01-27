@@ -1,6 +1,8 @@
 # Unverum-FUGA
 Unverum-FUGA is an unofficial branch of the Unverum Mod Manager intended for use with FUGA: Melodies of Steel. It is a tool that allows gamers to download, install, and manage mods for several Unreal Engine 4 anime games. 
 
+As of January 26th 2022, Unverum-FUGA is based off of Version 1.5.3 of Unverum.
+
 ## Supported Games
 - Dragon Ball FIghterZ
 - My Hero One's Justice 2
@@ -35,8 +37,6 @@ WARNING: Every time you click build, Unverum deletes everything from the ~mods d
 
 ### Auto Updates
 Unverum also supports auto updates for mods downloaded from GameBanana using the built-in browser or the 1-click install buttons. Click the Check for Updates button for Unverum to check if any are available for the currently selected game.
-
-Self updates for Unverum are also supported so you don't need to keep checking back here to see if you have the latest version. These are checked everytime on launch.
 
 ## Game Specific Functionalities
 ###Dragon Ball FighterZ
