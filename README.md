@@ -81,13 +81,13 @@ Yes. It'll look for .awb, .mp4, .bmp, .uasset, and .usm files to replace within 
 Yes this application is safe. Antivirus tends to trigger false alarms, especially due to it needing to be connected to the internet in order to be compatible with 1-click installations. You can check out the source code for yourself if you're suspicious of anything as well.
 
 ### Why won’t Unverum open?
-I made it so only one instance is running at a time so if it’s already running, the app won’t open. Check to see if you can end the process in task manager or even restart your pc if you don’t know how to do that. 
+Only one instance of Unverum can be open at a time. If you're certain you've closed one process and this occurs, go into Task Manager (CTRL+SHIFT+ESC) and end the "Unverum" process (may be a background process).
 
 ### Why doesn't Unverum have permissions to copy over files?
 Try running as administrator or checking to see if any antivirus is preventing the application from operating on files.
 
 ### Why aren't my mods showing up after checking them?
-Please make sure you pressed build after selecting your loadout and before launching the game.
+Please make sure you pressed build after selecting your loadout and before launching the game or that the pak file is correctly structured.
 
 ## Special Thanks
 - TekkaGB for creating Unverum in the first place
