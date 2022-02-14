@@ -10,6 +10,11 @@ As of January 26th 2022, Unverum-FUGA is based off of Version 1.5.3 of Unverum.
 - Guilty Gear -Strive
 - Jump Force
 - Kingdom Hearts III
+- Scarlet Nexus
+- Tales of Arise
+- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
+- Starlit Season
+- Shin Megami Tensei V
 - FUGA: Melodies of Steel (戦場のフーガ)
 
 ## Will other games be supported?
