@@ -22,7 +22,6 @@ I plan on finding other UE4 games and adding support to them if they don't alrea
 
 ### What kind of games are blacklisted from possible future support?
 - Games with built-in mod support (Steam Workshop, etc.)
-- Hentai/Ecchi/18+ games (For now)
 - Games that already have a fanmade mod-loader for it in existence.
 
 These blacklist guidelines are subject to change at any time.
