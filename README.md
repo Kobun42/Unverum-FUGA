@@ -4,17 +4,7 @@ Unverum-TANK (formerly Unverum-FUGA) is an unofficial branch of the Unverum Mod 
 As of January 26th 2022, Unverum-TANK is based off of Version 1.5.3 of Unverum.
 
 ## Supported Games
-- Dragon Ball FIghterZ
-- My Hero One's Justice 2
-- Granblue Fantasy: Versus
-- Guilty Gear -Strive
-- Jump Force
-- Kingdom Hearts III
-- Scarlet Nexus
-- Tales of Arise
-- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
-- Starlit Season
-- Shin Megami Tensei V
+- Nearly every game Unverum 1.5.3 supports plus...
 - FUGA: Melodies of Steel (戦場のフーガ)
 
 ## Will other games be supported?
