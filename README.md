@@ -5,7 +5,7 @@ As of January 26th 2022, Unverum-TANK is based off of Version 1.5.3 of Unverum.
 
 ## Supported Games
 - Nearly every game Unverum 1.5.3 supports plus...
-- FUGA: Melodies of Steel (戦場のフーガ)
+- FUGA: Melodies of Steel (戦場のフーガ) [and possibly 2 & 3 when they release?)
 
 ## Will other games be supported?
 I plan on finding other UE4 games and adding support to them if they don't already have their own mod loader. (No, I will not do FNAF:SB, that already has its own Unverum branch. If it already has a mod loader, there's no real need for me to add.)
@@ -13,6 +13,7 @@ I plan on finding other UE4 games and adding support to them if they don't alrea
 ### What kind of games are blacklisted from possible future support?
 - Games with built-in mod support (Steam Workshop, etc.)
 - Games that already have a fanmade mod-loader for it in existence.
+- Game is based solely on 18+ content (Why would you ever want mods for these.)
 
 These blacklist guidelines are subject to change at any time.
 
