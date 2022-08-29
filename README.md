@@ -1,11 +1,10 @@
 # Unverum-TANK
-Unverum-TANK (formerly Unverum-FUGA) is an unofficial branch of the Unverum Mod Manager intended for use with FUGA: Melodies of Steel. It is a tool that allows gamers to download, install, and manage mods for several Unreal Engine 4 anime games. 
+Unverum-TANK (formerly Unverum-FUGA) is an unofficial branch of the Unverum Mod Manager originally intended for use with the FUGA: Melodies of Steel family of games. It is a tool that allows gamers to download, install, and manage mods for several Unreal Engine 4 anime games. 
 
 As of January 26th 2022, Unverum-TANK is based off of Version 1.5.3 of Unverum.
 
-## Supported Games
-- Nearly every game Unverum 1.5.3 supports plus...
-- FUGA: Melodies of Steel (戦場のフーガ) [and possibly 2 & 3 when they release?]
+## Is there a list of currently planned games?
+No. Keep in mind that I need to legally own the game if I wanted to add support, and I don't own many UE4 games aside from FUGA unfortunately. Addition depends on my interest in it being modded and if it doesn't hit any parts fo the blacklist.
 
 ## Will other games be supported?
 I plan on finding other UE4 games and adding support to them if they don't already have their own mod loader. (No, I will not do FNAF:SB, that already has its own Unverum branch. If it already has a mod loader, there's no real need for me to add.)
