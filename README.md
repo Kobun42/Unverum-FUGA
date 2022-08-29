@@ -14,6 +14,7 @@ I plan on finding other UE4 games and adding support to them if they don't alrea
 - Games with built-in mod support (Steam Workshop, etc.)
 - Games that already have a fanmade mod-loader for it in existence.
 - Game is based solely on 18+ content (Why would you ever want mods for these.)
+- Live Service / Always-Online games (Either your mod will be wiped with subsequent updates or cheating will become rampant. It's not worth the hassle trying to keep these types of games supported.)
 
 These blacklist guidelines are subject to change at any time.
 
